@@ -1,0 +1,34 @@
+numpy is a numeric python which is used to solve mathematical problems like scientific programming
+numpy deals with some scientific operations:
+array
+matrixes
+differential
+integrations
+
+first we need to install numpy into local 
+then import numpy, now we can use numpy
+
+array: array is a collection of same datatypes. and it arrange in a particular way.
+it is similar to list in built in type
+similarities:
+both are mutable, indexing and, slicing
+difference:
+list: it collects all data types in a single variable
+array : it collects only one data type at a single time
+operations: list cant divide / it shows error
+array can be divide and shows output
+list is built in type and array is imported type
+
+Advantages of array:
+less memory
+fast
+more convient to use when we do mathematical operations
+
+array functions:
+array(),
+ones()
+linespace()
+arange()
+eye()
+zeros()
+random()
